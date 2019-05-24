@@ -1,0 +1,5 @@
+These are formulas to achieve solving cube blindfolded. This program should solve cube using only these 3 formulas
+
+Edge swap: R U R' U' R' F R2 U' R' U' R U R' F' 
+Corner swap: R U' R' U' R U R' F' R U R' U' R' F R 
+Parity: R U' R' U' R U R D R' U' R D' R' U2 R' U'
